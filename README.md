@@ -1,0 +1,2 @@
+# opencv
+/opt/opencv
